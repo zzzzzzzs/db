@@ -54,5 +54,6 @@ dkms.conf
 .xmake/
 build/
 .vscode/*
+!.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json

@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "types.h": "c",
+        "malloc_dbg.h": "c"
+    },
+    "debug.allowBreakpointsEverywhere": true,
+    "C_Cpp.intelliSenseEngine": "Default"
+}
